@@ -9,8 +9,8 @@
 }
 
 body{
-    font-size: 100%;
-    background: linear-gradient(68.15deg, #2F2325 16.62%, #8E5D52 85.61%);;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(8,8,109,1) 26%, rgba(9,9,121,1) 40%, rgba(0,212,255,1) 100%);    
 }
 
 .cabecalho {
@@ -33,7 +33,7 @@ body{
 .cabecalho-menu-item {
 
     font-family: 'Sarala', sans-serif;
-    color: #FFF2E7;
+    color: #f1f1f1;
     font-weight: 400;
     font-size: 18px;
 }
@@ -60,7 +60,7 @@ body{
     font-family: 'Righteous', cursive;
     font-weight: 400;
     font-size: 64px;
-    color: #FFF2E7;
+    color: #f1f1f1;
 }
 
 .conteudo-principal-subtitulo {
@@ -71,7 +71,7 @@ body{
 }
 
 .conteudo-principal-botao {
-    background-color: #ecd6c4;
+    background-color: #ECF0F1;
     width: 180px;
     height: 60px;
     border: none;
